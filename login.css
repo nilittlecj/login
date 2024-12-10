@@ -83,12 +83,12 @@ form{
     align-items: center;
     text-align: center;
     min-width: 350px;
-    width: 70%;
+    width: 60%;
     border-radius: 10px; 
     inset: 5px;
     margin: 5%;
     z-index: 100;
-    height: 80%;
+    height: 60%;
     align-self: center;
     background: #06192c;
 }
@@ -103,7 +103,7 @@ form .input-box input{
     border-radius: 20px;
     z-index: 2;
     border-radius: 10px;
-    font-size: 22px;
+    font-size: 20px;
     margin: 10px;
     margin-left: 20px;
     padding: 10px;
