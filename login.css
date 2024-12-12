@@ -24,8 +24,8 @@ body{
     left: 10%;
     top: 45%;
     border-radius: 30px;
-    width: 10%;
-    height: 10%;
+    width: 50%;
+    height: 50%;
     z-index: 1;
     background: rgb(207, 34, 34);
     transform-origin: bottom right;
