@@ -25,7 +25,7 @@ body{
     left: 5%;
     opacity: 0.4;
     top: 40%;
-    border-radius: -30px 30px -30px -30px;
+    border-radius: -30px 30px -30px ;
     width: 20%;
     height: 20%;
     z-index: 1;
