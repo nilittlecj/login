@@ -43,8 +43,8 @@ body{
     bottom: 22%;
     top: 50px;
     background: #fff;
-    width: 10%;
-    height: 10%;
+    width: 50%;
+    height: 50%;
     z-index: 0;
    
     transform-origin: bottom right  ;
