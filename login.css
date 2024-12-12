@@ -26,8 +26,8 @@ body{
     opacity: 0.4;
     top: 40%;
     border-radius: 30px;
-    width: 30%;
-    height: 30%;
+    width: 25%;
+    height: 25%;
     z-index: 1;
     background: rgb(207, 34, 34);
     transform-origin: bottom right;
