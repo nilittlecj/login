@@ -38,7 +38,7 @@ body{
 .container::after{
     content: '';
     position: absolute;
-    right: 25%;
+    right: 60%;
     top: -30%;
     opacity: 0.4;
     border-radius: 30%;
